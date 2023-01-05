@@ -1,0 +1,15 @@
+Q5. MCQ n
+
+What is the correct output ?
+
+int a = 5 + 5 * 2 + 2 * 2 + (2 * 3);
+
+System.out.println(a);
+
+Choose the correct answer from below:
+A) 138
+B) 264
+C) 41
+D) 25
+
+Ans: D) 25

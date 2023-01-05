@@ -1,0 +1,11 @@
+Q7. Intro to Java & Basic Data types - MCQ A
+
+Which of the following options is correct to declare int variables and use it ?
+
+Choose the correct answer from below:
+A) int a ; System.out.print(a);
+B) int a = 10; System.out.print(a);
+C) Int a =20; System.out.print(a);
+D) None of the above are correct
+
+Ans: B) int a = 10; System.out.print(a);

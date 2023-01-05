@@ -1,0 +1,15 @@
+Q8. Intro to Java & Basic Data types - MCQ C
+
+Which of the following options will give you the following output?
+
+
+Output: 1020
+
+Choose the correct answer from below:
+A) System.out.println(10 + 20);
+B) system.out.println(1020);
+C) System.out.println(1020);
+D) None of the above
+
+
+Ans : C) System.out.println(1020);

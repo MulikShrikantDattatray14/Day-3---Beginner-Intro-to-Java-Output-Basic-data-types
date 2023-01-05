@@ -1,0 +1,14 @@
+Q6. MCQ No. O
+
+What is the correct output ?
+int x = 10;
+System.out.print(x+1);
+System.out.print(x);
+
+Choose the correct answer from below:
+A) 1011
+B) 1111
+C) 1110
+D) 1010
+
+Ans: C) 1110

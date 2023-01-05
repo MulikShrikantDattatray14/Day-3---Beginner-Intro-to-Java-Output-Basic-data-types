@@ -1,0 +1,32 @@
+Q4. Hello World !
+
+Problem Description
+Print "Hello World !" in the output.
+
+Output Format
+Print in a single "Hello World !"
+
+
+Example Output
+Hello World !
+
+Note - You don't have to print "" in the output
+
+
+
+CODE: 
+
+import java.lang.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        // YOUR CODE GOES HERE
+        System.out.print("Hello World !");
+        // Please take input and print output to standard input/output (stdin/stdout)
+        // DO NOT USE ARGUMENTS FOR INPUTS
+        // E.g. 'Scanner' for input & 'System.out' for output
+        
+    }
+}
+

@@ -1,0 +1,14 @@
+Q6. MCQ g
+
+What will be the output of the following code ?
+
+int g = 9;
+System.out.print(g * 3);
+
+Choose the correct answer from below:
+A) g * 3
+B) 9 * 3
+C) 93
+D) 27
+
+Ans: 27
